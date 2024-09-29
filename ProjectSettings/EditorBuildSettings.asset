@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Tetris.unity
+    guid: 41b5ce93df5fa094895a70ac79b84589
+  - enabled: 1
+    path: Assets/Scenes/Sims.unity
+    guid: 8ed2dcc2f6005cf459ba3f949d98d517
+  - enabled: 1
+    path: Assets/Scenes/Zuma.unity
+    guid: cfc7ea26f79749149a44dcdbbf872034
+  - enabled: 1
+    path: Assets/Scenes/Slither.unity
+    guid: 1a235795f22b53141839b508412c90e5
+  - enabled: 1
+    path: Assets/Scenes/plants vs zombies.unity
+    guid: 8cc81c2129787974d979a429529010ec
+  - enabled: 1
+    path: Assets/Scenes/Tinytopia.unity
+    guid: 306626a9e2edbfd42802bb905537d259
+  - enabled: 1
+    path: Assets/Scenes/Worms.unity
+    guid: e5abb363b10616448951337b8a5244c5
+  - enabled: 1
+    path: Assets/Scenes/Trine.unity
+    guid: 529f527e6b96fbf4f9ac9dfefe3fb792
+  - enabled: 1
+    path: Assets/Scenes/Vojo.unity
+    guid: 955073bd920489c4fab068e69f8e37da
+  - enabled: 1
+    path: Assets/Scenes/Action.unity
+    guid: f760462f138e6af4595e3a2082a38440
+  - enabled: 1
+    path: Assets/Scenes/Action/Duke Nukem 3D.unity
+    guid: 1e8aebb3c44ec8f4e9515f9e4cdd5cf7
+  - enabled: 1
+    path: Assets/Scenes/Action/Half Life.unity
+    guid: 91a7e68027b8d7b42b17d36a08bb95ed
+  - enabled: 1
+    path: Assets/Scenes/Action/Metal Gear.unity
+    guid: 662746ea3baf7bb4699b615eae9dbcbe
+  - enabled: 1
+    path: Assets/Scenes/Action/Quake.unity
+    guid: 768520c37787e3e4e808abdf42fb1d24
+  - enabled: 1
+    path: Assets/Scenes/Action/Resident Evil 2.unity
+    guid: a5d7f3538d8eec44ea01e49f272e5196
+  - enabled: 1
+    path: Assets/Scenes/Action/Unreal Tournament.unity
+    guid: d8f65e09679f9e84b872e53ffb927160
+  - enabled: 1
+    path: Assets/Scenes/Race.unity
+    guid: bf9c5e0cb78f5b14abc6884a7d7f61f5
+  - enabled: 1
+    path: Assets/Scenes/Race/Carmageddon.unity
+    guid: 6cfd8928b4f7652419786265bcb8301a
+  - enabled: 1
+    path: Assets/Scenes/Race/MegaRace 2.unity
+    guid: 8552a497b0ecb4241933f77955da855c
+  - enabled: 1
+    path: Assets/Scenes/Race/Micro Machines V3.unity
+    guid: dd3e8e01e5c60a04ebeeebe9f0bf99af
+  - enabled: 1
+    path: Assets/Scenes/Race/Moto Racer.unity
+    guid: 45754239d964dd54fa67c119926d9b47
+  - enabled: 1
+    path: Assets/Scenes/Race/Need for Speed 3 Hot Pursuit.unity
+    guid: f13a1de75fa9a074f8466fcf3dcea138
+  - enabled: 1
+    path: Assets/Scenes/Race/Test Drive 5.unity
+    guid: e5dd40ac9f5559f4496a98578a2068c9
+  - enabled: 1
+    path: Assets/Scenes/Platformer.unity
+    guid: c593339037d265b4f98d9c32721cdf65
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Another World.unity
+    guid: 21c9a1923e3787a4a880b3141c961cdc
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Braid.unity
+    guid: 66584d455842a184c85b581a8dbb3797
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Oddworld.unity
+    guid: 77f7e7d2871499041af4b7619fa2bb10
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Rayman Forever.unity
+    guid: adeab97889d291e45bd8deae9fbb45ac
+  - enabled: 1
+    path: Assets/Scenes/Platformer/Super Meat Boy.unity
+    guid: 1673412fc23f410419939ba7c99374a7
+  - enabled: 1
+    path: Assets/Scenes/Platformer/The Jungle Book.unity
+    guid: ded339b8f32882248b52a63c995a4abd
+  - enabled: 1
+    path: Assets/Scenes/Simulator.unity
+    guid: 2b8fd26240fc73b43abcbe2b6c354cf8
+  - enabled: 1
+    path: Assets/Scenes/Simulator/Apache Havoc.unity
+    guid: 6ff2222f39e8b4a49a3bdcfad5fa02ef
+  - enabled: 1
+    path: Assets/Scenes/Simulator/Armored Fist 2.unity
+    guid: 8e02b85afbece694a9759d951e852048
+  - enabled: 1
+    path: Assets/Scenes/Simulator/European Air War.unity
+    guid: 1c86fdc71593c814bb36afbaac40aadf
+  - enabled: 1
+    path: Assets/Scenes/Simulator/FIFA 97.unity
+    guid: ac0f183e8c5b78740884745301db2c28
+  - enabled: 1
+    path: Assets/Scenes/Simulator/NHL '98.unity
+    guid: 622f8be10484b5d4d8fe0bcbfdfbcd43
+  - enabled: 1
+    path: Assets/Scenes/Simulator/SimGolf.unity
+    guid: 6767a8e0a405ccc4d972d7b71c5e6025
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 68bfa6036767e8644a02c017efdde837, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 5d44709657ae34d4b91736c3be38ad81, type: 2}
