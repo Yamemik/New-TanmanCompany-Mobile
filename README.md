@@ -1,4 +1,4 @@
-﻿# Помошник покупателя
+﻿# Мобильное приложение "Новотарманский"
 
 ![Static Badge](https://img.shields.io/badge/Yamemik-NewTanmanCompany-NewTanmanCompany)
 ![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/New-TanmanCompany-Mobile)
