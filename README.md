@@ -1,6 +1,6 @@
 ﻿# Помошник покупателя
 
-![Static Badge](https://img.shields.io/badge/Yamemik-New-TanmanCompany-NewTanmanCompany)
+![Static Badge](https://img.shields.io/badge/Yamemik-NewTanmanCompany-NewTanmanCompany)
 ![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/New-TanmanCompany-Mobile)
 ![GitHub](https://img.shields.io/github/license/Yamemik/New-TanmanCompany-Mobile)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Yamemik/New-TanmanCompany-Mobile)
